@@ -1,12 +1,9 @@
-.p {
-    display: inline-block;
-}
 
-.dd {
+.add-container{
     display: inline-block;
     width: 65%;
 }
 
-.aa {
+.player-container {
     display: flex;
 }

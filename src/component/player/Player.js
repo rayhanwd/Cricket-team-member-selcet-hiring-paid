@@ -12,7 +12,7 @@ const Player = (props) => {
 
     return (
      
-    <div className="p">
+    <div className="show-player">
         <div className="player-info">
        <div className="player-image">
        <img src={photo} alt=""/>

@@ -3,7 +3,9 @@ img{
     height:120px;
     border-radius:50%;
 }
-
+.show-player {
+    display: inline-block;
+}
 .player-info{
     background:tomato;
     width:350px;

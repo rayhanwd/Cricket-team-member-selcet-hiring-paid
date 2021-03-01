@@ -22,9 +22,9 @@ const [salary,setSelect] = useState([]);
         }
 
     return (
-    <div className="aa">
+    <div className="player-container">
            
-    <div className="dd">
+    <div className="add-container">
     {
 
 Players.map(player =>
