@@ -1,0 +1,12 @@
+.p {
+    display: inline-block;
+}
+
+.dd {
+    display: inline-block;
+    width: 65%;
+}
+
+.aa {
+    display: flex;
+}

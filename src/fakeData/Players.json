@@ -1,0 +1,79 @@
+[
+    {
+    "userId" : 1,
+    "photo" : "https://www.mykhel.com/thumb/240x100x225/cricket/players/0/10830.1571724978.jpg",
+    "name" : "Afif Hossain",
+    "team" : "Bangladesh",
+    "salary" : 150000
+    },
+    {
+    "userId" : 2,
+    "photo" : "https://www.mykhel.com/thumb/240x100x225/cricket/players/9/3279.1506323675.jpg",
+    "name" : "Mushfiqur Rahim",
+    "team" : "Bangladesh",
+    "salary" : 170000
+    },
+    {
+    "userId" : 3,
+    "photo" : "https://www.mykhel.com/thumb/240x100x225/cricket/players/7/3497.1506324086.jpg",
+    "name" : "Tamim Iqbal",
+    "team" : "Bangladesh",
+    "salary" : 110000
+    },
+    {
+    "userId" : 4,
+    "photo" : "https://www.mykhel.com/thumb/240x100x225/cricket/players/5/3555.1506323472.jpg",
+    "name" : "Mahmudullah",
+    "team" : "Bangladesh",
+    "salary" : 156000
+    },
+    {
+    "userId" : 5,
+    "photo" : "https://www.mykhel.com/thumb/240x100x225/cricket/players/0/4040.1506323400.jpg",
+    "name" : "Rubel Hossain",
+    "team" : "Bangladesh",
+    "salary" : 120000
+    },
+    {
+    "userId" : 6,
+    "photo" : "https://www.mykhel.com/thumb/240x100x225/cricket/players/0/5560.1506323656.jpg",
+    "name" : "Mosaddek Hossain",
+    "team" : "Bangladesh",
+    "salary" : 130000
+    },
+    {
+    "userId" : 7,
+    "photo" : "https://www.mykhel.com/thumb/240x100x225/cricket/players/3/5563.1506324115.jpg",
+    "name" : "Taskin Ahmed",
+    "team" : "Bangladesh",
+    "salary" : 120000
+    },
+    {
+    "userId" : 8,
+    "photo" : "https://www.mykhel.com/thumb/240x100x225/cricket/players/7/5567.1506323355.jpg",
+    "name" : "Liton Das",
+    "team" : "Bangladesh",
+    "salary" : 150400
+    },
+    {
+    "userId" : 9,
+    "photo" : "https://www.mykhel.com/thumb/240x100x225/cricket/players/1/6751.1559279894.jpg",
+    "name" : "Mohammad Saifuddin",
+    "team" : "Bangladesh",
+    "salary" : 170800
+    },
+    {
+    "userId" : 10,
+    "photo" : "https://www.mykhel.com/thumb/240x100x225/cricket/players/2/6752.1506323718.jpg",
+    "name" : "Mustafizur Rahman",
+    "team" : "Bangladesh",
+    "salary" : 150900
+    },
+    {
+    "userId" : 11,
+    "photo" : "https://www.mykhel.com/thumb/247x100x233/cricket/players/0/6750.1506323385.jpg",
+    "name" : "Mehedi Hasan",
+    "team" : "Bangladesh",
+    "salary" : 189000
+    }
+    ]

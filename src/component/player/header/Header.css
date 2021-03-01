@@ -1,0 +1,26 @@
+*{
+    text-decoration: none ;
+    list-style-type: none;
+}
+
+.header{
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+}
+ul{
+    display:flex; 
+     
+}
+
+ul li a{
+   color: #fff;
+   padding: 0px 0px 25px 25px;
+   font-family: sans-serif;
+}
